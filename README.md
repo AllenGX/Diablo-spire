@@ -4,7 +4,7 @@
 
 #### 背包模块
 
-##### __init.py
+##### __init__.py
 
 用于定义全局字典，存储对象引用
 
@@ -96,7 +96,7 @@ class ItemsList(object):
 
 #### 组件模块
 
-##### __init.py
+##### __init__.py
 
 用于定义组件基类
 
@@ -263,7 +263,7 @@ class MyEnemyPool(object):
 
 #### 事件模块
 
-##### __init.py
+##### __init__.py
 
 用于定义全局字典，存储对象引用
 
@@ -410,7 +410,7 @@ class MyEvent(object):
 
 #### 战斗模块
 
-##### __init.py
+##### __init__.py
 
 用于定义全局字典，存储对象引用
 
@@ -471,7 +471,7 @@ class MyFight(object):
 
 #### 测试模块
 
-##### __init.py
+##### __init__.py
 
 用于定义全局字典，存储对象引用
 
@@ -499,7 +499,7 @@ class MyFight(object):
 
 #### 新手引导
 
-##### __init.py
+##### __init__.py
 
 用于定义全局字典，存储对象引用
 
@@ -515,7 +515,7 @@ class MyFight(object):
 
 #### 心跳系统
 
-##### __init.py
+##### __init__.py
 
 暂无作用
 
